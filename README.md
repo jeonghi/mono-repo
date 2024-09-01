@@ -79,3 +79,13 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+
+---
+# turbo
+- `turbo`: 모노레포를 효율적으로 관리하기 위한 도구 중 하나로, 빌드, 테스트, 배포 등을 캐싱 및 병렬화하여 성능을 최적화함.
+  여러 프로젝트를 단일 저장소에서 관리하는 방식.
+- `package.json`: 각 패키지와 루트에서 workspace와 스크립트를 정의.
+- `turbo.json`: 터보의 빌드, 테스트, 기타 작업 파이프라인을 설정.
+
+- 공부1: [ReactJS랑 NestJS 연결하기](https://ohhoonim.blogspot.com/2024/01/nestjs_29.html)
+- 공부2: [Turbo사용하여 모노레포 구축하기](https://dev-scratch.tistory.com/161)
